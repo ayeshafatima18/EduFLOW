@@ -13,10 +13,11 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:4173',
-    'https://cozy-dusk-f2dbc9.netlify.app'
+    'https://69f81c894985f72fe174d7e9--cozy-dusk-f2dbc9.netlify.app'
   ],
   credentials: true
 }));
+
 app.use(express.json());
 
 const API_KEY = process.env.GEMINI_API_KEY;
