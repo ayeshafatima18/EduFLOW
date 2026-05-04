@@ -1,4 +1,2 @@
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+/api/* https://eduflow-67zl.onrender.com/:splat  200
+/* /index.html                              200
