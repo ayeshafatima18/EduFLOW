@@ -13,7 +13,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:4173',
-    'https://69f81a9d478ce0197d78ecfd--cozy-dusk-f2dbc9.netlify.app/'
+    'https://cozy-dusk-f2dbc9.netlify.app'
   ],
   credentials: true
 }));
