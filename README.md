@@ -2,7 +2,7 @@
 
 **Live Demo:** https://69f81c894985f72fe174d7e9--cozy-dusk-f2dbc9.netlify.app/
 
-A full-stack education management platform built for FAU's Center for Online & Continuing Education (Mock Project). Features AI-powered automated course approval workflows, role-based dashboards, and a personalized Learning Garden with RAG-enabled memory.
+A full-stack education management platform built for a university's Online Education (Mock Project). Features AI-powered automated course approval workflows, role-based dashboards, and a personalized Learning Garden with RAG-enabled memory.
 
 ---
 
